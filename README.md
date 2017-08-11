@@ -9,7 +9,7 @@ The two complement each other well, you can use AWS Glue to transform your data 
 
 This demo shows upsert for partitioned data in JSON after converting to Parquet and then loading in Redshift.
 
-You should go to the Full360/SneaQL wiki for instructions on installation and usage.
+You should go to the Full360/SneaQL [wiki](https://github.com/full360/sneaql/wiki)  for instructions on installation and usage.
 Here is the link to demo video...
 
 
