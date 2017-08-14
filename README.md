@@ -12,10 +12,7 @@ This demo shows upsert for partitioned data in JSON after converting to Parquet 
 You should go to the Full360/SneaQL [wiki](https://github.com/full360/sneaql/wiki)  for instructions on installation and usage.
 Here is the link to demo video...
 
-
-
-{VIDEO LINK HERE}
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/FWVI93hUtGM/0.jpg)](https://youtu.be/Vo_H7ac46hU "SneaQL Overview")
 
 
 <b>FULL 360 INC</b>                                                                             
